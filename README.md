@@ -21,7 +21,7 @@ Anyway the dataset contains copyrighted material. I didn't steal it, I just borr
 By releasing this dataset metadata I am effectively recommending your copyrighted work and this counts as advertising (included in my deferred payment).
 
 You can see the metadata in the file:
-[training_metadata.txt.bz2](training_metadata.txt.bz2)
+[training_metadata.txt.bz2](https://github.com/lcordier/BGI/raw/main/training_metadata.txt.bz2)
 
 Oh yeah, the foundational paper for BGI is:
 [stupidity.pdf](stupidity.pdf)
