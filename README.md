@@ -28,3 +28,4 @@ Oh yeah, the foundational paper for BGI is:
 
 Regards, Louis.
 
+PS. I will obviously first sanitize this dataset (remove questionable content) and allow for copyright holders to remove their files if they so wish before making it public.
