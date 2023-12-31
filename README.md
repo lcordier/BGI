@@ -28,7 +28,7 @@ Oh yeah, the foundational paper for BGI is:
 
 PS. Some context:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xvNvj7ku5pY?si=KwCIl_Yf_QM3PjSZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=xvNvj7ku5pY](https://www.youtube.com/watch?v=xvNvj7ku5pY)
 
 
 Regards, Louis.
